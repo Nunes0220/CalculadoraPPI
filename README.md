@@ -1,3 +1,3 @@
 # CalculadoraPPI
 
-## Projeto de uma calculadora RPM para PPI.
+## Projeto de uma calculadora RPN para PPI.
