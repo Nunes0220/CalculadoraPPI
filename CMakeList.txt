@@ -1,0 +1,6 @@
+set(HOME "/Users/jalexfranca")
+set(ENV{IDF_PATH} "${HOME}/esp/esp-idf")
+set(ENV{MDF_PATH} "${HOME}/esp/esp-mdf")
+set(ENV{IDF_PYTHON_ENV_PATH} "${HOME}/.espressif/python_env/idf4.4_py3.10_env")
+set(ENV{PYTHON} "$ENV{IDF_PYTHON_ENV_PATH}/bin/python3")
+set(ENV{PATH} "$ENV{PATH}:/Users/jalexfranca........")
